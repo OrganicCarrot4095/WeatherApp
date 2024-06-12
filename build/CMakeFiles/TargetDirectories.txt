@@ -1,0 +1,3 @@
+/Users/kajaprestneslind/Desktop/WeatherApp/build/CMakeFiles/WeatherApp.dir
+/Users/kajaprestneslind/Desktop/WeatherApp/build/CMakeFiles/edit_cache.dir
+/Users/kajaprestneslind/Desktop/WeatherApp/build/CMakeFiles/rebuild_cache.dir
